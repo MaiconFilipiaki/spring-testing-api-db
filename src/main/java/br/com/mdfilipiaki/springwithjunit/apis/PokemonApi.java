@@ -3,8 +3,6 @@ package br.com.mdfilipiaki.springwithjunit.apis;
 import lombok.AllArgsConstructor;
 import org.springframework.web.reactive.function.client.WebClient;
 
-import java.util.List;
-
 @AllArgsConstructor
 public class PokemonApi {
 
